@@ -38,7 +38,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Ancient History
 - BA (Hons), 2:1
-- Other cool stuff
+- Dissertation; __Approaching Roman Wine: Economic Perspectives__
 
 #### Haileybury College (September 2008 - July 2013)
 
@@ -49,11 +49,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Twenty Recruitment, London (September 2017 - May 2019)    
 Recruitment Consultant
 
+- Worked on the Change and Transformation department, recruiting Project and Programme Managers across Business and IT.
 - After taking ownership of my own desk I was quickly promoted to consultant.
-- Recruited people from the business and IT side.
 - Liaised with passive and active candidates weekly. Met, interviewed and built relationships with them.
 - Business development: built relationships with existing clients and targeted new clients to win business.
-- Market candidates weekly to prospective clients.
+- Marketed candidates weekly to prospective clients.
 - Provided clients with relevant market information.
 
 Achievements
