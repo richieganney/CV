@@ -1,27 +1,18 @@
 ## Richard Ganney
 
-I am an ambitious trainee junior developer. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
+I am an ambitious trainee developer. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
 
-I would now relish the opportunity to work for a boutique firm where I can really show my talents and be given a multitude of responsibilities, whilst continuing to strengthen my programming skills.
+I would now relish the opportunity to work for a company where I can really show my talents and be given a multitude of responsibilities, whilst continuing to strengthen my programming skills.
 
 ## Skills
 
-#### This Skill
+#### Organisation
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my recruitment career my candidate and client data management was airtight. I was given responsibility to manage this across the whole change & transformation team by running weekly meetings, one-to-ones and helping other consultants with their data management. The ability to keep candidate and client information organised and up to date is imperative to any recruitment career and was a significant factor in helping me keep my billings consistent.
 
-- Experience
-- Achievements
-- Evidence
+#### Go Getter
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+When I was 16 I made the decision early on that I wanted to move to Australia after University. After I graduated years later I took the plunge and bought a one-way ticket to the East Coast and quickly found my feet with a job and a place to rent, saving for another travelling trip to the Americas. I love to take risks and try new things, as well as experiencing different cultures.
 
 ## Education
 
@@ -33,14 +24,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, React, PostgreSQL
 - RSpec, Jasmine
 
 #### Bristol University (September 2013 - July 2016)
 
 - Ancient History
 - BA (Hons), 2:1
-- Dissertation; *Approaching Roman Wine: Economic Perspectives*. This was a paper to assess whether or not the concepts of modern economic   theory can be used to understand the functionality of the Ancient Roman Wine Market.
 
 #### Haileybury College (September 2008 - July 2013)
 
