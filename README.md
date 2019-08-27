@@ -4,6 +4,11 @@ I am an ambitious trainee developer. After graduating from Bristol University th
 
 I would now relish the opportunity to work for a company where I can really show my talents and be given a multitude of responsibilities, whilst continuing to strengthen my programming skills.
 
+## Projects
+
+[Acebook](../acebook-MugManual)
+[Chitter](../chitter-challenge)
+
 ## Skills
 
 #### Organisation
@@ -17,10 +22,6 @@ When I was 16 I made the decision early on that I wanted to move to Australia af
 ## Education
 
 #### Makers Academy (June - September 2019)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
