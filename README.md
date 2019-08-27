@@ -6,8 +6,8 @@ I would now relish the opportunity to work for a company where I can really show
 
 ## Projects
 
-[Acebook](../acebook-MugManual)
-[Chitter](../chitter-challenge)
+[Acebook](https://github.com/richieganney/acebook-MugManual)     
+[Chitter](https://github.com/richieganney/chitter-challenge)
 
 ## Skills
 
