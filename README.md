@@ -7,9 +7,12 @@ I would now relish the opportunity to work for a company where I can really show
 ## Projects
 
 [Acebook](https://github.com/richieganney/acebook-MugManual) 
-- a mockup of facebook built in a team over two weeks. Ruby, Rails, Rspec, React    
+- A mockup of facebook built in a team over two weeks.
+- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL
+
 [Chitter](https://github.com/richieganney/chitter-challenge) 
-- a mockup of twitter built independently in the fourth week of my course over a weekend. Sinatra, Ruby, Rspec     
+- a mockup of twitter built independently in the fourth week of my course over a weekend. 
+- Sinatra, Ruby, Rspec, PostgreSQL, SQL      
 
 ## Skills
 
