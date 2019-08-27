@@ -1,6 +1,6 @@
 ## Richard Ganney
 
-I am an ambitious trainee developer. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
+I am an ambitious software developer finishing up at Makers Academy. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
 
 I would now relish the opportunity to work for a company where I can really show my talents and be given a multitude of responsibilities, whilst continuing to strengthen my programming skills.
 
@@ -30,7 +30,7 @@ When I was 16 I made the decision early on that I wanted to move to Australia af
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React, PostgreSQL
+- JavaScript, React, PostgreSQL, ActiveRecord Ruby, Rails, Sinatra
 - RSpec, Jasmine
 
 #### Bristol University (September 2013 - July 2016)
@@ -45,9 +45,9 @@ When I was 16 I made the decision early on that I wanted to move to Australia af
 ## Work Experience
 
 Twenty Recruitment, London (September 2017 - May 2019)    
-Recruitment Consultant
+Recruitment Consultant - Projects and Change
 
-- A boutique search and select firm with roughly 35 sales heads, I worked in the Change and Transformation department placing Project       and Programme Managers into major banks and financial services firms across the UK and Europe.
+- A boutique search and select firm, I worked in the Change and Transformation department placing Project and Programme Managers into major banks and financial services firms across the UK and Europe.
 - After taking ownership of my own desk I was quickly promoted to consultant.
 - Liaised with passive and active candidates weekly. Met, interviewed and built relationships with them.
 - Business development - built relationships with our existing client base and targeted new clients to win business.
@@ -87,12 +87,12 @@ Camp Counsellor
 
 - I spent the summer being responsible for a group of ten 7-10 year olds in a residential Camp in the USA. 
 - I was entrusted with the full-time supervision of these children, whether it be pastoral care, coaching sports, teaching piano and         leading various recreational activities.
-- This was a brilliant experience working as part of a large team. I learnt the importance of communication, teamwork, leadership,           customer relations and hard work, with virtually no breaks during the day!
+- This was a brilliant experience working as part of a large team. I learnt the importance of communication, teamwork, leadership,           customer relations and hard work, with virtually no breaks during the day.
 
 ## Personal Interests 
 
 - Passionate about music – composer and accomplished pianist for over 15 years. 
 - Duke of Edinburgh Gold award.
-- Avid squash player and member of my local club.
+- Avid squash player and Treasurer of the local squash league.
 
 
