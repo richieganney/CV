@@ -7,7 +7,7 @@ I would now relish the opportunity to work for a company where I can really show
 ## Projects
 
 [Acebook](https://github.com/richieganney/acebook-MugManual) 
-- A clone of facebook built in a small team over two weeks.
+- A clone of facebook built in a small team over two weeks. We created an API so our react interface could communicate with our back end.
 - Ruby, Rails, Rspec, React, Javascript, Active Record, SQL
 
 [Chitter](https://github.com/richieganney/chitter-challenge) 
