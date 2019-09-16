@@ -2,7 +2,7 @@
 
 I am an ambitious software developer finishing up at Makers Academy. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
 
-I would now relish the opportunity to work for a company where I can really show my talents and be given a multitude of responsibilities, whilst continuing to strengthen my programming skills.
+I am passionate about product design and regularly attend React and Code quality meetups. I would relish the opportunity to work for a company where I can play an integral part in the development of a particular product, be given a multitude of responsibilities, and continue to strengthen my programming skills.
 
 ## Projects
 
@@ -56,7 +56,6 @@ Recruitment Consultant - Projects and Change
 - Liaised with passive and active candidates weekly. Met, interviewed and built relationships with them.
 - Business development - built relationships with our existing client base and targeted new clients to win business.
 - Marketed candidates weekly to prospective clients.
-- Provided clients with relevant market information.
 
 Achievements
 
@@ -95,6 +94,7 @@ Camp Counsellor
 
 ## Personal Interests 
 
+- Regular attendee of React and Code Quality meetups.
 - Passionate about music – composer and accomplished pianist for over 15 years. 
 - Duke of Edinburgh Gold award.
 - Avid squash player and Treasurer of the local squash league.
