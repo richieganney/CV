@@ -6,7 +6,7 @@ I am passionate about product design and regularly attend React and Code quality
 
 ## Projects
 
-[Acebook](https://github.com/richieganney/acebook-MugManual) 
+[Acebook](https://github.com/hemser1/acebook-MugManual) 
 - A clone of facebook built in a small team over two weeks. Our React front-end communicated with a rails API that we built.
 - Ruby, Rails, Rspec, React, Javascript, Active Record, SQL
 
