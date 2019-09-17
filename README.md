@@ -8,7 +8,7 @@ I am passionate about product design and regularly attend React and Code quality
 
 [Acebook](https://github.com/hemser1/acebook-MugManual) 
 - A clone of facebook built in a small team over two weeks. Our React front-end communicated with a rails API that we built.
-- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL, Travis CI, Heroku
+- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL, CI, Heroku
 
 [MakersBnB](https://github.com/richieganney/MakersBnB)
 - A clone of AirBnB, this was our first group project at Makers.
@@ -42,7 +42,7 @@ When I was 16 I made the decision early on that I wanted to move to Australia af
 - Agile/XP
 - JavaScript, React, PostgreSQL, ActiveRecord, Ruby, Rails, Sinatra
 - Jasmine, Rspec, Cypress
-- Travis CI, Circle CI, Heroku
+- CI, Heroku
 
 #### Bristol University (September 2013 - July 2016)
 
