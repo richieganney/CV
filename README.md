@@ -1,6 +1,6 @@
 ## Richard Ganney
 
-I am an ambitious software developer finishing up at Makers Academy. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
+I am an ambitious software developer having just completed Makers Academy. After graduating from Bristol University three years ago, I moved to Australia independently where I saved enough to fund a brilliant travelling experience through North, Central and South America. Following a year away I returned to the UK to work for a recruitment consultancy in the city.
 
 I am passionate about product design and regularly attend React and Code quality meetups. I would relish the opportunity to work for a company where I can play an integral part in the development of a particular product, be given a multitude of responsibilities, and continue to strengthen my programming skills.
 
