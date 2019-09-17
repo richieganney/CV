@@ -8,7 +8,7 @@ I am passionate about product design and regularly attend React and Code quality
 
 [Acebook](https://github.com/hemser1/acebook-MugManual) 
 - A clone of facebook built in a small team over two weeks. Our React front-end communicated with a rails API that we built.
-- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL
+- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL, Travis CI, Heroku
 
 [MakersBnB](https://github.com/richieganney/MakersBnB)
 - A clone of AirBnB, this was our first group project at Makers.
@@ -19,6 +19,18 @@ I am passionate about product design and regularly attend React and Code quality
 - Sinatra, Ruby, Rspec, PostgreSQL, SQL
 
 ## Skills
+
+#### TDD, Problem Solving and Agile processes
+
+Throughout makers we have been improving and consolidating our development process through personal and group projects. One way to measure that is through a coding review, whereby an external developer gives you a complex problem to solve in an hour and reviews your process. some feedback I recieved on important processes:
+
+TDD: "You then tested the acceptance criteria to test that program was changed appropriately, according to the limits. This ensured a good balance between simplicity and complexity in your test process"
+
+Problem Solving: "You started off by asking the user questions to help build your understanding of the program. You built the
+tests and the frequency program side-by-side which allowed you to follow an
+incremental programming approach."
+
+Agile Processes: "You took time to understand how the program was meant to run by asking the client clear questions, using examples to help edify your understanding. You asked clarifying questions during the exercise and ensured that the program still conformed to the user requirements."
 
 #### Organisation
 
