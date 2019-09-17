@@ -22,7 +22,7 @@ I am passionate about product design and regularly attend React and Code quality
 
 #### TDD, Problem Solving and Agile processes
 
-Throughout makers we have been improving and consolidating our development process through personal and group projects. One way to measure that is through a coding review, whereby an external developer gives you a complex problem to solve in an hour and reviews your process. some feedback I recieved on important processes:
+Throughout makers we have been improving and consolidating our development process through personal and group projects. One way to measure that is through a coding review, whereby an external developer gives you a complex problem to solve in an hour and reviews your process. Some feedback I recieved:
 
 TDD: "You then tested the acceptance criteria to test that program was changed appropriately, according to the limits. This ensured a good balance between simplicity and complexity in your test process"
 
