@@ -20,15 +20,9 @@ I am passionate about product design and regularly attend React and Code quality
 
 ## Skills
 
-#### TDD, Problem Solving and Agile processes
+#### Agile processes
 
-Throughout makers we have been improving and consolidating our development process through personal and group projects. One way to measure that is through a coding review, whereby an external developer gives you a complex problem to solve in an hour and reviews your process. Some feedback I recieved:
-
-TDD: "You then tested the acceptance criteria to test that program was changed appropriately, according to the limits. This ensured a good balance between simplicity and complexity in your test process"
-
-Problem Solving: "You started off by asking the user questions to help build your understanding of the program. You built the
-tests and the frequency program side-by-side which allowed you to follow an
-incremental programming approach."
+Throughout makers we have been improving and consolidating our development process through personal and group projects. We held daily stand-ups, retrospectives and two-day sprints which enabled us to run our projects in a flexible and efficient way. We have also done 'process reviews' where we receive feedback from external developers on our development process after completing a task in a given timeframe. A snippet of feedback from my review:
 
 Agile Processes: "You took time to understand how the program was meant to run by asking the client clear questions, using examples to help edify your understanding. You asked clarifying questions during the exercise and ensured that the program still conformed to the user requirements."
 
