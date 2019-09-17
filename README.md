@@ -6,17 +6,22 @@ I am passionate about product design and regularly attend React and Code quality
 
 ## Projects
 
+[Meet in the Middle](https://github.com/gennyallcroft/meet-in-the-middle-react-front-end)
+- This was our final group project at Makers. it finds a fair meeting spot based on journey time and gives recommendations on things to do
+- We used exteral APIs to calculate the journey time, find map locations and generate recommendations
+- React, JavaScript, JSX, Cypress, Rspec, Capybara, Active Record, SQL, CI, Heroku
+
 [Acebook](https://github.com/hemser1/acebook-MugManual) 
 - A clone of facebook built in a small team over two weeks. Our React front-end communicated with a rails API that we built.
-- Ruby, Rails, Rspec, React, Javascript, Active Record, SQL, CI, Heroku
+- Ruby, Rails, Rspec, Capybara, React, JavaScript, JSX, Active Record, SQL, CI, Heroku
 
 [MakersBnB](https://github.com/richieganney/MakersBnB)
 - A clone of AirBnB, this was our first group project at Makers.
-- Sinatra, Ruby, Rspec, PostgreSQL, SQL
+- Sinatra, Ruby, Rspec, Capybara, PostgreSQL, SQL
 
 [Chitter](https://github.com/richieganney/chitter-challenge) 
 - A clone of twitter built independently in the fourth week of my course over a weekend. 
-- Sinatra, Ruby, Rspec, PostgreSQL, SQL
+- Sinatra, Ruby, Rspec, Capybara, PostgreSQL, SQL
 
 ## Skills
 
