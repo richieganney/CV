@@ -20,11 +20,11 @@ I am passionate about product design and regularly attend React and Code quality
 
 ## Skills
 
-#### Agile processes
+#### Agile Development
 
 Throughout makers we have been improving and consolidating our development process through personal and group projects. We held daily stand-ups, retrospectives and two-day sprints which enabled us to run our projects in a flexible and efficient way. We have also done 'process reviews' where we receive feedback from external developers on our development process after completing a task in a given timeframe. A snippet of feedback from my review:
 
-Agile Processes: "You took time to understand how the program was meant to run by asking the client clear questions, using examples to help edify your understanding. You asked clarifying questions during the exercise and ensured that the program still conformed to the user requirements."
+Agile Development Process: "You took time to understand how the program was meant to run by asking the client clear questions, using examples to help edify your understanding. You asked clarifying questions during the exercise and ensured that the program still conformed to the user requirements."
 
 #### Organisation
 
