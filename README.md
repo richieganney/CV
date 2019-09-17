@@ -8,7 +8,7 @@ I am passionate about product design and regularly attend React and Code quality
 
 [Meet in the Middle](https://github.com/richieganney/meet-in-the-middle-react-front-end)
 - This was our final group project at Makers. It finds a fair meeting spot between two friends, based on journey time, and gives recommendations on things to do
-- We used exteral APIs to calculate the journey time, find map locations and generate recommendations
+- We used external APIs to calculate the journey time, find map locations and generate recommendations
 - React, JavaScript, JSX, Cypress, Rspec, Capybara, Active Record, SQL, CI, Heroku
 
 [Acebook](https://github.com/hemser1/acebook-MugManual) 
