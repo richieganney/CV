@@ -44,10 +44,11 @@ When I was 16 I made the decision early on that I wanted to move to Australia af
 
 #### Makers Academy (June - September 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- JavaScript, React, PostgreSQL, ActiveRecord Ruby, Rails, Sinatra
-- RSpec, Jasmine
+- JavaScript, React, PostgreSQL, ActiveRecord, Ruby, Rails, Sinatra
+- Jasmine, Rspec, Cypress
+- Travis CI, Circle CI, Heroku
 
 #### Bristol University (September 2013 - July 2016)
 
@@ -110,5 +111,3 @@ Camp Counsellor
 - Passionate about music – composer and accomplished pianist for over 15 years. 
 - Duke of Edinburgh Gold award.
 - Avid squash player and Treasurer of the local squash league.
-
-
